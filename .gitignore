@@ -1,0 +1,10 @@
+# dotfiles, with exceptions:
+.*
+!.gitignore
+# compiled files
+*.py[co]
+# not tracked subdirectories
+/env/
+/src/
+/filestore/
+/logs/
